@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { searchMedicalRecords, fetchAllPatients, getCategoryLabel } from './api';
 import type { ApiResponse, PatientInfo, ChatMessage, PatientListItem } from './types';
 
-// Components
+// Component
 import PatientSidebar from './components/PatientSidebar';
 import ChatSidebar from './components/ChatSidebar';
 import Header from './components/Header';

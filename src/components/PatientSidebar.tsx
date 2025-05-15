@@ -13,7 +13,7 @@ import ReactMarkdown from 'react-markdown';
 //   birthDate: string; // O Date si lo manejas como objeto Date
 //   gender: 'male' | 'female' | 'other';
 //   // Otras propiedades si las tienes
-// }
+// 
 
 // Interfaz para las notas guardadas (placeholder por ahora)
 interface SavedNote {
